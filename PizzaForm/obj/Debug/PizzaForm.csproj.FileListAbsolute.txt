@@ -1,0 +1,10 @@
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\bin\Debug\PizzaForm.exe.config
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\bin\Debug\PizzaForm.exe
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\bin\Debug\PizzaForm.pdb
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\obj\Debug\PizzaForm.csproj.AssemblyReference.cache
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\obj\Debug\PizzaForm.Form1.resources
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\obj\Debug\PizzaForm.Properties.Resources.resources
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\obj\Debug\PizzaForm.csproj.GenerateResource.cache
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\obj\Debug\PizzaForm.csproj.CoreCompileInputs.cache
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\obj\Debug\PizzaForm.exe
+D:\UniversityProgramming C#\Programing\GPI C#\PizzaForm\obj\Debug\PizzaForm.pdb
